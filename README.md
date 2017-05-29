@@ -1,6 +1,3 @@
-spooky92
-========
-
 Coursera r programming
 # See README.md for instructions on running the code and output from it
 # The assignment states that running the code is not part of the grading 
